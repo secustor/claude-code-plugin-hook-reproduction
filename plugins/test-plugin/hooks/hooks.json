@@ -1,0 +1,15 @@
+{
+  "description": "Minimal test hook configuration to reproduce output capture bug",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/entrypoints/stop.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

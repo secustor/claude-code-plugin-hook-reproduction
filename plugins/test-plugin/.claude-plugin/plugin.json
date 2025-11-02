@@ -1,0 +1,8 @@
+{
+  "name": "test-plugin",
+  "version": "1.0.0",
+  "description": "Minimal test plugin to reproduce hook output capture bug",
+  "author": {
+    "name": "Test"
+  }
+}
