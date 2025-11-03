@@ -1,6 +1,6 @@
 # Plugin Hook Output Capture Bug Reproduction
 
-Minimal reproduction case for https://github.com/anthropics/claude-code/issues/10875
+Minimal reproduction case for https://github.com/anthropics/claude-code/issues/10412
 
 ## Issue
 
